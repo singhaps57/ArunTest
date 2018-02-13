@@ -25,7 +25,7 @@ import execute.devved.demoapp.utils.OnSwipeTouchListener;
 
 
 /**
- * Hi  Arun
+ * Hi  Arun r1
  */
 public class DetailsActivity extends AppCompatActivity {
     ArrayList<SmsEntity> lang_detail_list;
